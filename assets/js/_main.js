@@ -4,6 +4,20 @@
 
 $(document).ready(function(){
 
+  // <!-- Custom added -->
+  //To modify or add your own scripts include them in [`assets/js/_main.js`](https://github.com/mmistakes/minimal-mistakes/blob/master/assets/js/_main.js)
+  //and then rebuild using `npm run build:js`. See below for more details.
+
+
+  //jquery-mousewheel: https://github.com/jquery/jquery-mousewheel
+  var express = require('express');
+  var app = express.createServer();
+  app.use(require('browserify')({
+      require : [ 'jquery-browserify', 'jquery-mousewheel' ]
+  }));
+
+  // <!-- Custom added end -->
+
   // Sticky footer
   var bumpIt = function() {
       $('body').css('margin-bottom', $('.page__footer').outerHeight(true));
@@ -67,6 +81,10 @@ $(document).ready(function(){
     },
     closeOnContentClick: true,
     midClick: true // allow opening popup on middle mouse click. Always set it to true if you don't provide alternative source.
+
+
+
+
   });
 
 });
