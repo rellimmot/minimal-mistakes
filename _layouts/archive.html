@@ -13,7 +13,20 @@ layout: default
     {% include breadcrumbs.html %}
   {% endunless %}
 {% endif %}
+<!-- lightGallery includes -->
+<!-- jQuery version must be >= 1.8.0; -->
+<script src="jquery.min.js"></script>
+<script src="js/lightgallery.min.js"></script>
 
+<!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
+<script src="js/plugins/jquery.mousewheel.min.js"></script>
+
+<!-- lightgallery plugins -->
+<script src="js/lg-thumbnail.min.js"></script>
+<script src="js/lg-fullscreen.min.js"></script>
+
+<script src="js/isotope-lightgallery.js"></script>
+<!-- /lightGallery includes -->
 <div id="main" role="main">
   {% include sidebar.html %}
 
