@@ -271,3 +271,7 @@ defaults:
 
       # added to clear GitHub API error per https://github.com/DIYbiosphere/sphere/issues/140
       github: [metadata]
+
+      # added for webpack per https://medium.com/@allizadrozny/using-webpack-and-react-with-jekyll-cfe137f8a2cc
+      destination: public
+      source: src

@@ -32,6 +32,10 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
     "cssgram": "^0.1.3",
     "flickity": "^2.0.10",
     "imagesloaded": "^4.1.3",
@@ -49,6 +53,10 @@
     "lg-video": "^1.1.0",
     "lg-zoom": "^1.1.0",
     "lightgallery": "^1.6.0",
-    "packery": "^2.1.1"
+    "packery": "^2.1.1",
+    "react": "^15.6.1",
+    "react-addons-update": "^15.6.0",
+    "react-dom": "^15.6.1",
+    "webpack": "^3.5.6"
   }
 }
