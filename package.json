@@ -32,6 +32,10 @@
     "build:js": "npm run uglify && npm run add-banner"
   },
   "dependencies": {
-    "isotope-layout": "^3.0.4"
+    "flickity": "^2.0.10",
+    "isotope-layout": "^3.0.4",
+    "jquery": "^3.2.1",
+    "lightgallery": "^1.6.0",
+    "packery": "^2.1.1"
   }
 }
