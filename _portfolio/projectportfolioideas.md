@@ -179,7 +179,8 @@ sidebar:
 
 </div>
 
-
+<br>
+<br>
 <div class="isotope-lightgallery-example">
       <button type="button" class="button is-checked" data-filter="">ALL</button>
       <button type="button" class="button" data-filter=".design">DESIGN</button>
