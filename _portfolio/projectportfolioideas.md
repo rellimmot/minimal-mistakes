@@ -197,7 +197,7 @@ sidebar:
         <div class="photo"></div>
       </div>
       </a>
-      <a href="https://www.youtube.com/watch?v=Io0fBr1XBUA" class="revGallery-anchor branding">
+      <a href="https://unsplash.com/photos/ssAcdlJRsI4/download" class="revGallery-anchor branding">
       <img class="img-responsive" src="https://unsplash.com/photos/ssAcdlJRsI4/download">
       <div style="overflow:hidden">
         <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/ssAcdlJRsI4/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
