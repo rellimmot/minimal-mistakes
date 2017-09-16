@@ -72,7 +72,8 @@ $(document).ready(function(){
   // external js: isotope.pkgd.js
 
 
-  // init Isotope
+  // INITIALIZE ISOTOPE ELEMENT EXAMPLE
+
   var $grid = $('.grid').isotope({
     itemSelector: '.element-item',
     layoutMode: 'fitRows',
@@ -124,6 +125,6 @@ $(document).ready(function(){
       $( this ).addClass('is-checked');
     });
   });
-
+// END INITIALIZE ISOTOPE ELEMENT EXAMPLE
 
 });
