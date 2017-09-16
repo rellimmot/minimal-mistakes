@@ -115,6 +115,7 @@ author:
 include:
   - .htaccess
   - /_pages
+  - /assets/js/vendor/jquery/jquery-3.2.1.min.js
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
