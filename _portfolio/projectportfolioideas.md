@@ -188,46 +188,46 @@ sidebar:
       <button type="button" class="button" data-filter=".branding">BRANDING</button>
 
       <div class="nak-gallery nlg1" id="gallery">
-      <a href="http://unsplash.com/photos/GYNxcQvBNzA/download" class="revGallery-anchor design">
-      <img class="img-responsive" src="http://unsplash.com/photos/GYNxcQvBNzA/download">
+      <a href="https://unsplash.com/photos/GYNxcQvBNzA/download" class="revGallery-anchor design">
+      <img class="img-responsive" src="https://unsplash.com/photos/GYNxcQvBNzA/download">
       <div style="overflow:hidden">
-        <div class="nak-gallery-poster" style="background-image:url('http://unsplash.com/photos/GYNxcQvBNzA/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
+        <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/GYNxcQvBNzA/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
       </div>
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
       </a>
       <a href="https://www.youtube.com/watch?v=Io0fBr1XBUA" class="revGallery-anchor branding">
-      <img class="img-responsive" src="http://unsplash.com/photos/ssAcdlJRsI4/download">
+      <img class="img-responsive" src="https://unsplash.com/photos/ssAcdlJRsI4/download">
       <div style="overflow:hidden">
-        <div class="nak-gallery-poster" style="background-image:url('http://unsplash.com/photos/ssAcdlJRsI4/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
+        <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/ssAcdlJRsI4/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
       </div>
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
       </a>
-      <a href="http://unsplash.com/photos/EKIyHUrUHWU/download" class="revGallery-anchor design">
-      <img class="img-responsive" src="http://unsplash.com/photos/EKIyHUrUHWU/download">
+      <a href="https://unsplash.com/photos/EKIyHUrUHWU/download" class="revGallery-anchor design">
+      <img class="img-responsive" src="https://unsplash.com/photos/EKIyHUrUHWU/download">
       <div style="overflow:hidden">
-        <div class="nak-gallery-poster" style="background-image:url('http://unsplash.com/photos/EKIyHUrUHWU/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
+        <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/EKIyHUrUHWU/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
       </div>
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
       </a>
-      <a href="http://unsplash.com/photos/CFi7_hCXecU/download" class="revGallery-anchor branding">
-      <img class="img-responsive" src="http://unsplash.com/photos/CFi7_hCXecU/download">
+      <a href="https://unsplash.com/photos/CFi7_hCXecU/download" class="revGallery-anchor branding">
+      <img class="img-responsive" src="https://unsplash.com/photos/CFi7_hCXecU/download">
       <div style="overflow:hidden">
-        <div class="nak-gallery-poster" style="background-image:url('http://unsplash.com/photos/CFi7_hCXecU/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
+        <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/CFi7_hCXecU/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
       </div>
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
       </a>
-      <a href="http://unsplash.com/photos/cFplR9ZGnAk/download" class="revGallery-anchor design">
-      <img class="img-responsive" src="http://unsplash.com/photos/cFplR9ZGnAk/download">
+      <a href="https://unsplash.com/photos/cFplR9ZGnAk/download" class="revGallery-anchor design">
+      <img class="img-responsive" src="https://unsplash.com/photos/cFplR9ZGnAk/download">
       <div style="overflow:hidden">
-        <div class="nak-gallery-poster" style="background-image:url('http://unsplash.com/photos/cFplR9ZGnAk/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
+        <div class="nak-gallery-poster" style="background-image:url('https://unsplash.com/photos/cFplR9ZGnAk/download');background-size:cover;background-repeat:no-repeat;background-position:center center;display: block;width: 100%;height: 0;"></div>
       </div>
       <div class="gal-overlay">
         <div class="photo"></div>
