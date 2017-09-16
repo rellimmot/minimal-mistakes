@@ -180,6 +180,15 @@ sidebar:
 </div>
 
 
+<<<<<<< HEAD
+=======
+<script type="text/javascript">
+    $(document).ready(function() {
+        $("#lightgallery").lightGallery();
+    });
+</script>
+
+>>>>>>> dcefaeb19e8efc5f79d979e8a2a46adf45752263
 <div class="isotope-lightgallery-example">
       <button type="button" class="button is-checked" data-filter="">ALL</button>
       <button type="button" class="button" data-filter=".design">DESIGN</button>

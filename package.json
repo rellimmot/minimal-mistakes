@@ -26,7 +26,11 @@
     "uglify-js": "^2.6.1"
   },
   "scripts": {
+<<<<<<< HEAD
     "uglify": "uglifyjs assets/js/vendor/jquery/jquery-3.2.1.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/_main.js assets/js/plugins/isotope.pkgd.min.js assets/js/plugins/lightgallery.js assets/js/plugins/lightgallery-all.js assets/js/plugins/imagesloaded.pkgd.js -c -m -o assets/js/main.min.js",
+=======
+    "uglify": "uglifyjs assets/js/vendor/jquery/jquery-3.2.1.min.js assets/js/plugins/jquery.fitvids.js assets/js/plugins/jquery.greedy-navigation.js assets/js/plugins/jquery.magnific-popup.js assets/js/plugins/jquery.smooth-scroll.min.js assets/js/_main.js assets/js/plugins/isotope.pkgd.min.js assets/js/plugins/lightgallery.js assets/js/plugins/lightgallery-all.js -c -m -o assets/js/main.min.js",
+>>>>>>> dcefaeb19e8efc5f79d979e8a2a46adf45752263
     "add-banner": "node banner.js",
     "watch:js": "onchange \"assets/js/**/*.js\" -e \"assets/js/main.min.js\" -- npm run build:js",
     "build:js": "npm run uglify && npm run add-banner"
