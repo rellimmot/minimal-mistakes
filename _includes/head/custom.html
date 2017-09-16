@@ -2,4 +2,22 @@
 
 <!-- insert favicons. use http://realfavicongenerator.net/ -->
 
+
+  {% if page.support contains 'jquery' %}
+  <script src="assets/js/vendor/jquery/jquery-3.2.1.min.js"></script>
+  {% endif %}
+
+  {% if page.support contains 'gallery' %}
+  <!-- A jQuery plugin that adds cross-browser mouse wheel support. (Optional) -->
+  <script src="assets/js/plugins/jquery.mousewheel.js"></script>
+  <!-- Actual includes needed for the gallery -->
+  <script src="assets/js/plugins/lightgallery-all.js"></script>
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/{{ "assets/css/lightgallery.css" }}" />
+  <script src="assets/js/plugins/isotope.pkgd.min.js"></script>
+  <link rel="stylesheet" href="{{ site.url }}{{ site.baseurl }}/{{ "assets/css/gallery.css" }}" />
+  <script src="assets/js/plugins/picturefill.js"></script>
+  <script src="assets/js/plugins/imagesloaded.pkgd.js"></script>
+  {% endif %}
+
+
 <!-- end custom head snippets -->

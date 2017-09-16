@@ -183,11 +183,13 @@ sidebar:
 <br>
 
 <div class="isotope-lightgallery-example">
+
       <button type="button" class="button is-checked" data-filter="">ALL</button>
       <button type="button" class="button" data-filter=".design">DESIGN</button>
       <button type="button" class="button" data-filter=".branding">BRANDING</button>
 
       <div class="nak-gallery nlg1" id="gallery">
+
       <a href="https://unsplash.com/photos/GYNxcQvBNzA/download" class="revGallery-anchor design">
       <img class="img-responsive" src="https://unsplash.com/photos/GYNxcQvBNzA/download">
       <div style="overflow:hidden">
@@ -197,6 +199,8 @@ sidebar:
         <div class="photo"></div>
       </div>
       </a>
+
+
       <a href="https://unsplash.com/photos/ssAcdlJRsI4/download" class="revGallery-anchor branding">
       <img class="img-responsive" src="https://unsplash.com/photos/ssAcdlJRsI4/download">
       <div style="overflow:hidden">
@@ -205,6 +209,7 @@ sidebar:
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
+
       </a>
       <a href="https://unsplash.com/photos/EKIyHUrUHWU/download" class="revGallery-anchor design">
       <img class="img-responsive" src="https://unsplash.com/photos/EKIyHUrUHWU/download">
@@ -214,6 +219,7 @@ sidebar:
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
+
       </a>
       <a href="https://unsplash.com/photos/CFi7_hCXecU/download" class="revGallery-anchor branding">
       <img class="img-responsive" src="https://unsplash.com/photos/CFi7_hCXecU/download">
@@ -223,6 +229,7 @@ sidebar:
       <div class="gal-overlay">
         <div class="photo"></div>
       </div>
+
       </a>
       <a href="https://unsplash.com/photos/cFplR9ZGnAk/download" class="revGallery-anchor design">
       <img class="img-responsive" src="https://unsplash.com/photos/cFplR9ZGnAk/download">
@@ -233,5 +240,6 @@ sidebar:
         <div class="photo"></div>
       </div>
       </a>
+
       </div>
 </div>
