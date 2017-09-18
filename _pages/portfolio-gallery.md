@@ -6,5 +6,6 @@ support: [jquery, gallery]
 ---
 
 This is my placeholder text for my portfolio gallery.
-
-{% include gallery-layout.html gallery=site.data.galleries.portfolio %}
+<div class="isotope-lightgallery">
+{% include gallery-sorting.html gallery=site.data.galleries.portfolio %}
+</div>

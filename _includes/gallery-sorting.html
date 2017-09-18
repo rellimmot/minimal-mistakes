@@ -1,0 +1,58 @@
+<h2>Filter</h2>
+<div id="filters" class="button-group">  <button class="button is-checked" data-filter="*">show all</button>
+  <button class="button" data-filter=".electronics">electronics</button>
+  <button class="button" data-filter=".computers">computers</button>
+  <button class="button" data-filter=".cars">cars</button>
+  <button class="button" data-filter=".art">art</button>
+</div>
+
+<h2>Sort</h2>
+<div id="sorts" class="button-group">  <button class="button is-checked" data-sort-by="highlights">highlights</button>
+  <button class="button" data-sort-by="by project">by project</button>
+</div>
+
+<div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
+  <div id="grid-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="grid-sizer"></div>
+    {% for picture in include.gallery.pictures %}
+      <div class="grid-sizer">
+      <div class="{{ picture. }}"  
+        <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.original }}"
+        data-responsive="
+          {% for size in picture.sizes %}
+              {{ site.url}}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}
+          {% endfor %}"
+        class="image"
+          {% if picture.title %}
+              data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>
+                  {% if picture.caption %}
+                    <p>{{ picture.caption | escape }}</p>
+                  {% endif %}</div>"
+          {% endif %}>
+        <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+        </a>
+      </div>
+    {% endfor %}
+</div>
+
+<script>
+$(document).ready(function() {
+  var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
+    thumbnail: true,
+    selector: '.image'
+  });
+});
+
+// init isotope
+var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+  percentPosition: true,
+  columnWidth: '.grid-sizer',
+  itemSelector: '.grid-sizer',
+  layoutMode: "masonry"
+});
+
+// layout Isotope after each image loads
+$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
+  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
+});
+
+</script>
