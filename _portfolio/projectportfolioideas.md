@@ -13,6 +13,7 @@ sidebar:
     text: "So basically ignore this post."
 ---
 * 3d printing as a whole? Things I've learned? Tips?
+* Robot LiPo battery building.
 * Those Vex wheels. Write about customizing them.
 * Lil' iMac G3 and plans on G4
 * G3 Wire Organizer, maybe a Mac Pro wire organizer layout/plan
@@ -244,3 +245,5 @@ sidebar:
 
       </div>
 </div>
+
+{% include gallery-sorting.html gallery=site.data.galleries.portfolio %}

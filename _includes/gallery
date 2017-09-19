@@ -22,6 +22,8 @@
           "{{ img.url | absolute_url }}"
         {% endif %}
         {% if img.title %}title="{{ img.title }}"{% endif %}
+        {% if img.filter %}filter="{{ img.filter }}"{% endif %}
+        {% if img.priority %}sort="{{ img.priority }}"{% endif %}
       >
         <img src=
           {% if img.image_path contains "://" %}

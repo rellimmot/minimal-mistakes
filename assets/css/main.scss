@@ -6,9 +6,6 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
-@import "isotope-gallery";
-@import "isotope-lightgallery";
 @import "lightgallery/lightgallery";
 @import "lightgallery/lg-transitions";
 @import "cssgram/cssgram";
-@import "gallery";
