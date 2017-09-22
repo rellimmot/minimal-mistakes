@@ -20,6 +20,6 @@ different if I'd built it today. For that reason I cut a lot out because I just 
 think it represents great craftsmanship.</p>
 
 ### Sort Images Based on Filter. Click images to expand and read descriptions.
-<div class="isotope-lightgallery" style="margin-left: -3em;margin-right: -3em">
+<div class="isotope-lightgallery" style="margin-left:-3em;margin-right:-3em">
 {% include gallery-sorting.html gallery=site.data.galleries.portfolio %}
 </div>
