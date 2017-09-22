@@ -8,6 +8,10 @@ header:
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 ---
 
+# "Under Construction"
+## Insert classic Geocities construction_worker.gif
+### I'm building the actual image library now. The layout and gallery plugin is done.
+
 <p>These are what I think give some feel for what kind of projects I like to get into.<br />
 This isn't a complete representation, and unfortunately doesn't/can't include work<br />
 involving aircraft wiring build/repair because I'm not allowed to have a camera there.<br />
