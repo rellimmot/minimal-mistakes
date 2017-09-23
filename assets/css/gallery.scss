@@ -187,3 +187,11 @@ html {
 p {
   margin: 0em 1em 0em 1em;
 }
+
+@media screen and (min-width: 1850px) {
+  .gallery-margins-override {
+    margin-left:-14em;
+    margin-right:-14em;
+  }   // decrease margins for images on big screens
+
+}
