@@ -24,7 +24,6 @@ feature_row:
     alt: "Project Gallery"
     title: <a href="/portfolio/project-gallery" style="color:#494e52">Project Gallery</a>
     excerpt: <a href="/portfolio/project-gallery" style="color:#494e52">A sortable collection of project highlights.</a>
-    permalink: https://www.rellimmot.com/portfolio/project-gallery
   - image_path: https://www.rellimmot.com/assets/images/siteimages/afbylakewbrak600x400.jpg
     alt: "Posts"
     title: <a href="/year-archive/" style="color:#494e52">Posts</a>
