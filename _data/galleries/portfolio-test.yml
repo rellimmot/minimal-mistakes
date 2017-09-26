@@ -1,0 +1,318 @@
+picture_path: portfolio-gallery
+
+preview:
+
+  filename: VS-2012-5948
+  original: VS-2012-5948-6000x4000.jpg
+  filter: cars
+  priority: 3.4
+  title: OMG
+  sizes:
+  - VS-2012-5948-4242x2828.jpg
+  - VS-2012-5948-2121x1414.jpg
+  - VS-2012-5948-2999x1999.jpg
+  thumbnail: VS-2012-5948-thumbnail.jpg
+
+pictures:
+
+- filename: VS-2012-6013
+  original: VS-2012-6013-6000x4000.jpg
+  filter: cars
+  priority: 4
+  title: OMG
+  sizes:
+  - VS-2012-6013-4242x2828.jpg
+  - VS-2012-6013-2121x1414.jpg
+  - VS-2012-6013-2999x1999.jpg
+  thumbnail: VS-2012-6013-thumbnail.jpg
+
+- filename: VS-2012-6088
+  original: VS-2012-6088-6000x4000.jpg
+  filter: electronics
+  priority: 1
+  sizes:
+  - VS-2012-6088-4242x2828.jpg
+  - VS-2012-6088-2121x1414.jpg
+  - VS-2012-6088-2999x1999.jpg
+  thumbnail: VS-2012-6088-thumbnail.jpg
+
+- filename: VS-2012-6011
+  original: VS-2012-6011-4000x6000.jpg
+  filter: computers
+  priority: 1.1
+  sizes:
+  - VS-2012-6011-2828x4242.jpg
+  - VS-2012-6011-1414x2121.jpg
+  - VS-2012-6011-1999x2999.jpg
+  thumbnail: VS-2012-6011-thumbnail.jpg
+
+- filename: VS-2012-6048
+  original: VS-2012-6048-6000x4000.jpg
+  filter: art
+  priority: 1.2
+  sizes:
+  - VS-2012-6048-4242x2828.jpg
+  - VS-2012-6048-2121x1414.jpg
+  - VS-2012-6048-2999x1999.jpg
+  thumbnail: VS-2012-6048-thumbnail.jpg
+
+- filename: VS-2012-6169
+  original: VS-2012-6169-2573x3860.jpg
+  filter: electronics
+  priority: 4.1
+  sizes:
+  - VS-2012-6169-1414x2121.jpg
+  - VS-2012-6169-2000x3000.jpg
+  - VS-2012-6169-2573x3860.jpg
+  thumbnail: VS-2012-6169-thumbnail.jpg
+
+- filename: VS-2012-6057
+  original: VS-2012-6057-6000x4000.jpg
+  filter: electronics
+  priority: 4.2
+  sizes:
+  - VS-2012-6057-4242x2828.jpg
+  - VS-2012-6057-2121x1414.jpg
+  - VS-2012-6057-2999x1999.jpg
+  thumbnail: VS-2012-6057-thumbnail.jpg
+
+- filename: VS-2012-5930
+  original: VS-2012-5930-6000x4000.jpg
+  filter: electronics
+  priority: 1.3
+  sizes:
+  - VS-2012-5930-4242x2828.jpg
+  - VS-2012-5930-2121x1414.jpg
+  - VS-2012-5930-2999x1999.jpg
+  thumbnail: VS-2012-5930-thumbnail.jpg
+
+- filename: VS-2012-6053
+  original: VS-2012-6053-6000x4000.jpg
+  filter: computers
+  priority: 4.3
+  sizes:
+  - VS-2012-6053-4242x2828.jpg
+  - VS-2012-6053-2121x1414.jpg
+  - VS-2012-6053-2999x1999.jpg
+  thumbnail: VS-2012-6053-thumbnail.jpg
+
+- filename: VS-2012-6068
+  original: VS-2012-6068-5854x3903.jpg
+  filter: art
+  priority: 4.4
+  sizes:
+  - VS-2012-6068-4242x2828.jpg
+  - VS-2012-6068-2121x1414.jpg
+  - VS-2012-6068-2999x1999.jpg
+  thumbnail: VS-2012-6068-thumbnail.jpg
+
+- filename: VS-2012-6042
+  original: VS-2012-6042-6000x4000.jpg
+  filter: art
+  priority: 2
+  sizes:
+  - VS-2012-6042-4242x2828.jpg
+  - VS-2012-6042-2121x1414.jpg
+  - VS-2012-6042-2999x1999.jpg
+  thumbnail: VS-2012-6042-thumbnail.jpg
+
+- filename: VS-2012-5900
+  original: VS-2012-5900-6000x4000.jpg
+  filter: art
+  priority: 4.5
+  sizes:
+  - VS-2012-5900-4242x2828.jpg
+  - VS-2012-5900-2121x1414.jpg
+  - VS-2012-5900-2999x1999.jpg
+  thumbnail: VS-2012-5900-thumbnail.jpg
+
+- filename: VS-2012-5948
+  original: VS-2012-5948-6000x4000.jpg
+  filter: art
+  priority: 4.6
+  sizes:
+  - VS-2012-5948-4242x2828.jpg
+  - VS-2012-5948-2121x1414.jpg
+  - VS-2012-5948-2999x1999.jpg
+  thumbnail: VS-2012-5948-thumbnail.jpg
+
+- filename: VS-2012-5970
+  original: VS-2012-5970-3146x4719.jpg
+  filter: art
+  priority: 4.7
+  sizes:
+  - VS-2012-5970-2828x4242.jpg
+  - VS-2012-5970-1414x2121.jpg
+  - VS-2012-5970-1999x2999.jpg
+  thumbnail: VS-2012-5970-thumbnail.jpg
+
+- filename: VS-2012-6056
+  original: VS-2012-6056-6000x4000.jpg
+  filter: art
+  priority: 2.1
+  sizes:
+  - VS-2012-6056-4242x2828.jpg
+  - VS-2012-6056-2121x1414.jpg
+  - VS-2012-6056-2999x1999.jpg
+  thumbnail: VS-2012-6056-thumbnail.jpg
+
+- filename: VS-2012-5966
+  original: VS-2012-5966-6000x4000.jpg
+  filter: art
+  priority: 2.2
+  sizes:
+  - VS-2012-5966-4242x2828.jpg
+  - VS-2012-5966-2121x1414.jpg
+  - VS-2012-5966-2999x1999.jpg
+  thumbnail: VS-2012-5966-thumbnail.jpg
+
+- filename: VS-2012-6013
+  original: VS-2012-6013-6000x4000.jpg
+  filter: cars
+  priority: 4.8
+  title: OMG
+  sizes:
+  - VS-2012-6013-4242x2828.jpg
+  - VS-2012-6013-2121x1414.jpg
+  - VS-2012-6013-2999x1999.jpg
+  thumbnail: VS-2012-6013-thumbnail.jpg
+
+- filename: VS-2012-6088
+  original: VS-2012-6088-6000x4000.jpg
+  filter: electronics
+  priority: 2.3
+  sizes:
+  - VS-2012-6088-4242x2828.jpg
+  - VS-2012-6088-2121x1414.jpg
+  - VS-2012-6088-2999x1999.jpg
+  thumbnail: VS-2012-6088-thumbnail.jpg
+
+- filename: VS-2012-6011
+  original: VS-2012-6011-4000x6000.jpg
+  filter: computers
+  priority: 2.4
+  sizes:
+  - VS-2012-6011-2828x4242.jpg
+  - VS-2012-6011-1414x2121.jpg
+  - VS-2012-6011-1999x2999.jpg
+  thumbnail: VS-2012-6011-thumbnail.jpg
+
+- filename: VS-2012-6048
+  original: VS-2012-6048-6000x4000.jpg
+  filter: art
+  priority: 2.5
+  sizes:
+  - VS-2012-6048-4242x2828.jpg
+  - VS-2012-6048-2121x1414.jpg
+  - VS-2012-6048-2999x1999.jpg
+  thumbnail: VS-2012-6048-thumbnail.jpg
+
+- filename: VS-2012-6169
+  original: VS-2012-6169-2573x3860.jpg
+  filter: electronics
+  priority: 5
+  sizes:
+  - VS-2012-6169-1414x2121.jpg
+  - VS-2012-6169-2000x3000.jpg
+  - VS-2012-6169-2573x3860.jpg
+  thumbnail: VS-2012-6169-thumbnail.jpg
+
+- filename: VS-2012-6057
+  original: VS-2012-6057-6000x4000.jpg
+  filter: electronics
+  priority: 5.1
+  sizes:
+  - VS-2012-6057-4242x2828.jpg
+  - VS-2012-6057-2121x1414.jpg
+  - VS-2012-6057-2999x1999.jpg
+  thumbnail: VS-2012-6057-thumbnail.jpg
+
+- filename: VS-2012-5930
+  original: VS-2012-5930-6000x4000.jpg
+  filter: electronics
+  priority: 3
+  sizes:
+  - VS-2012-5930-4242x2828.jpg
+  - VS-2012-5930-2121x1414.jpg
+  - VS-2012-5930-2999x1999.jpg
+  thumbnail: VS-2012-5930-thumbnail.jpg
+
+- filename: VS-2012-6053
+  original: VS-2012-6053-6000x4000.jpg
+  filter: computers
+  priority: 5.2
+  sizes:
+  - VS-2012-6053-4242x2828.jpg
+  - VS-2012-6053-2121x1414.jpg
+  - VS-2012-6053-2999x1999.jpg
+  thumbnail: VS-2012-6053-thumbnail.jpg
+
+- filename: VS-2012-6068
+  original: VS-2012-6068-5854x3903.jpg
+  filter: art
+  priority: 5.3
+  sizes:
+  - VS-2012-6068-4242x2828.jpg
+  - VS-2012-6068-2121x1414.jpg
+  - VS-2012-6068-2999x1999.jpg
+  thumbnail: VS-2012-6068-thumbnail.jpg
+
+- filename: VS-2012-6042
+  original: VS-2012-6042-6000x4000.jpg
+  filter: art
+  priority: 3.1
+  sizes:
+  - VS-2012-6042-4242x2828.jpg
+  - VS-2012-6042-2121x1414.jpg
+  - VS-2012-6042-2999x1999.jpg
+  thumbnail: VS-2012-6042-thumbnail.jpg
+
+- filename: VS-2012-5900
+  original: VS-2012-5900-6000x4000.jpg
+  filter: art
+  priority: 5.4
+  sizes:
+  - VS-2012-5900-4242x2828.jpg
+  - VS-2012-5900-2121x1414.jpg
+  - VS-2012-5900-2999x1999.jpg
+  thumbnail: VS-2012-5900-thumbnail.jpg
+
+- filename: VS-2012-5948
+  original: VS-2012-5948-6000x4000.jpg
+  filter: art
+  priority: 5.5
+  sizes:
+  - VS-2012-5948-4242x2828.jpg
+  - VS-2012-5948-2121x1414.jpg
+  - VS-2012-5948-2999x1999.jpg
+  thumbnail: VS-2012-5948-thumbnail.jpg
+
+- filename: VS-2012-5970
+  original: VS-2012-5970-3146x4719.jpg
+  filter: art
+  priority: 5.6
+  sizes:
+  - VS-2012-5970-2828x4242.jpg
+  - VS-2012-5970-1414x2121.jpg
+  - VS-2012-5970-1999x2999.jpg
+  thumbnail: VS-2012-5970-thumbnail.jpg
+
+- filename: VS-2012-6056
+  original: VS-2012-6056-6000x4000.jpg
+  filter: art
+  priority: 3.2
+  sizes:
+  - VS-2012-6056-4242x2828.jpg
+  - VS-2012-6056-2121x1414.jpg
+  - VS-2012-6056-2999x1999.jpg
+  thumbnail: VS-2012-6056-thumbnail.jpg
+
+- filename: VS-2012-5966
+  original: VS-2012-5966-6000x4000.jpg
+  filter: art
+  priority: 3.3
+  sizes:
+  - VS-2012-5966-4242x2828.jpg
+  - VS-2012-5966-2121x1414.jpg
+  - VS-2012-5966-2999x1999.jpg
+  thumbnail: VS-2012-5966-thumbnail.jpg

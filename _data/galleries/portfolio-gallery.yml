@@ -1,17 +1,4 @@
 picture_path: portfolio-gallery
-
-preview:
-
-- filename: 20151112_233134-151112
-  original: 20151112_233134-151112-2933x2045.jpg
-  filter: cars
-  title: OMG
-  sizes:
-  - 20151112_233134-151112-1197x834.jpg
-  - 20151112_233134-151112-2074x1446.jpg
-  thumbnail: 20151112_233134-151112-1197x834.jpg
-
-
 pictures:
 - filename: 20151112_233134-151112
   original: 20151112_233134-151112-2933x2045.jpg
