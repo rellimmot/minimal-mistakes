@@ -1,9 +1,9 @@
 ---
-title: "Portfolio Project Ideas"
+title: "Project Writeup Ideas"
 excerpt: "This is a mostly temporary file with a list of projects I need to write about."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
-  teaser: assets/images/unsplash-gallery-image-1-th.jpg
+  image: /assets/images/siteimages/wagoncross800x500.jpg
+  teaser: assets/images/siteimages/wagoncross600x400.jpg
 sidebar:
   - title: "Project idears."
     image: https://placehold.it/350x250
