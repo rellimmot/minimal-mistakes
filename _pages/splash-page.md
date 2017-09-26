@@ -20,11 +20,11 @@ feature_row:
     alt: "Resume/About"
     title: <a href="/resume/" style="color:#494e52">Resume/About</a>
     excerpt: <a href="/resume/" style="color:#494e52">My resume and about me page.</a>
-  # - image_path: assets/images/siteimages/meinthelab600x400.jpg
-  #   alt: "Project Gallery"
-  #   title: <a href="/portfolio/project-gallery" style="color:#494e52">Project Gallery</a>
-  #   excerpt: <a href="/portfolio/project-gallery" style="color:#494e52">A sortable collection of project highlights.</a>
-  #   permalink: https://www.rellimmot.com/portfolio/project-gallery
+  - image_path: assets/images/siteimages/meinthelab600x400.jpg
+    alt: "Project Gallery"
+    title: <a href="/portfolio/project-gallery" style="color:#494e52">Project Gallery</a>
+    excerpt: <a href="/portfolio/project-gallery" style="color:#494e52">A sortable collection of project highlights.</a>
+    permalink: https://www.rellimmot.com/portfolio/project-gallery
   - image_path: https://www.rellimmot.com/assets/images/siteimages/afbylakewbrak600x400.jpg
     alt: "Posts"
     title: <a href="/year-archive/" style="color:#494e52">Posts</a>
