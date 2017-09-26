@@ -21,14 +21,14 @@ feature_row:
     alt: "Resume/About"
     title: <a href="/resume/" style="color:#494e52">Resume/About</a>
     excerpt: <a href="/resume/" style="color:#494e52">My resume and about me page.</a>
+  - image_path: assets/images/siteimages/toomuchbenchstock600x400.jpg
+    alt: "Project Gallery"
+    title: <a href="/portfolio/project-gallery" style="color:#494e52">Project Gallery</a>
+    excerpt: <a href="/portfolio/project-gallery" style="color:#494e52">A sortable collection of project highlights.</a>
+ feature_row2:
   - image_path: https://www.rellimmot.com/assets/images/siteimages/afbylakewbrak600x400.jpg
     title: <a href="/year-archive/" style="color:#494e52">Posts</a>
     excerpt: <a href="/year-archive/" style="color:#494e52">Blog type articles and writeups.</a>
- feature_row2:
-- image_path: assets/images/siteimages/toomuchbenchstock600x400.jpg
-  alt: "Project Gallery"
-  title: <a href="/portfolio/project-gallery" style="color:#494e52">Project Gallery</a>
-  excerpt: <a href="/portfolio/project-gallery" style="color:#494e52">A sortable collection of project highlights.</a>
 #   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
 #     alt: "placeholder image 2"
 #     title: "Placeholder Image Left Aligned"
