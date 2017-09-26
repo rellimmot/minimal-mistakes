@@ -71,9 +71,6 @@ feature_row:
 
 {% include feature_row %}
 
-------
-
-
 {% include sidebar-mod.html %}
 Posts
 {% capture written_year %}'None'{% endcapture %}
