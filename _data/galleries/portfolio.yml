@@ -12,6 +12,7 @@ preview:
   thumbnail: 20151112_233134-151112-1197x834.jpg
 
 
+picture_path: portfolio-gallery
 pictures:
 - filename: 20151112_233134-151112
   original: 20151112_233134-151112-2933x2045.jpg
@@ -19,13 +20,6 @@ pictures:
   - 20151112_233134-151112-1197x834.jpg
   - 20151112_233134-151112-2074x1446.jpg
   thumbnail: 20151112_233134-151112-1197x834.jpg
-- filename: VS-2012-6013
-  original: VS-2012-6013-6000x4000.jpg
-  sizes:
-  - VS-2012-6013-2121x1414.jpg
-  - VS-2012-6013-2999x1999.jpg
-  - VS-2012-6013-4242x2828.jpg
-  thumbnail: VS-2012-6013-thumbnail.jpg
 - filename: 20170921_124547-170921
   original: 20170921_124547-170921-3265x1837.jpg
   sizes: []
@@ -48,13 +42,6 @@ pictures:
   original: 202752_465821626784391_1589209768_o-170926-2834x2116.jpg
   sizes: []
   thumbnail: 202752_465821626784391_1589209768_o-170926-2834x2116.jpg
-- filename: VS-2012-5970
-  original: VS-2012-5970-3146x4719.jpg
-  sizes:
-  - VS-2012-5970-1414x2121.jpg
-  - VS-2012-5970-1999x2999.jpg
-  - VS-2012-5970-2828x4242.jpg
-  thumbnail: VS-2012-5970-thumbnail.jpg
 - filename: 1478129409340-170926
   original: 1478129409340-170926-3204x1872.jpg
   sizes: []
@@ -114,13 +101,6 @@ pictures:
   sizes:
   - 20161021_125719-161021-2309x1299.jpg
   thumbnail: 20161021_125719-161021-2309x1299.jpg
-- filename: VS-2012-6088
-  original: VS-2012-6088-6000x4000.jpg
-  sizes:
-  - VS-2012-6088-2121x1414.jpg
-  - VS-2012-6088-2999x1999.jpg
-  - VS-2012-6088-4242x2828.jpg
-  thumbnail: VS-2012-6088-thumbnail.jpg
 - filename: 319045_10151542218824465_826755587_n-170926
   original: 319045_10151542218824465_826755587_n-170926-2836x2115.jpg
   sizes:
@@ -154,13 +134,6 @@ pictures:
   sizes:
   - 20161004_113955_002-161004-1299x2309.jpg
   thumbnail: 20161004_113955_002-161004-1299x2309.jpg
-- filename: VS-2012-6011
-  original: VS-2012-6011-4000x6000.jpg
-  sizes:
-  - VS-2012-6011-1414x2121.jpg
-  - VS-2012-6011-1999x2999.jpg
-  - VS-2012-6011-2828x4242.jpg
-  thumbnail: VS-2012-6011-thumbnail.jpg
 - filename: 20141228_154919-141228
   original: 20141228_154919-141228-1837x3265.jpg
   sizes:
@@ -209,13 +182,6 @@ pictures:
   original: 20170210_154334-170210-3265x1837.jpg
   sizes: []
   thumbnail: 20170210_154334-170210-3265x1837.jpg
-- filename: VS-2012-6068
-  original: VS-2012-6068-5854x3903.jpg
-  sizes:
-  - VS-2012-6068-2121x1414.jpg
-  - VS-2012-6068-2999x1999.jpg
-  - VS-2012-6068-4242x2828.jpg
-  thumbnail: VS-2012-6068-thumbnail.jpg
 - filename: 20170313_200703-170313
   original: 20170313_200703-170313-3265x1837.jpg
   sizes: []
@@ -463,12 +429,6 @@ pictures:
   original: 20170511_181723-170511-3265x1837.jpg
   sizes: []
   thumbnail: 20170511_181723-170511-3265x1837.jpg
-- filename: VS-2012-6169
-  original: VS-2012-6169-2573x3860.jpg
-  sizes:
-  - VS-2012-6169-1414x2121.jpg
-  - VS-2012-6169-2000x3000.jpg
-  thumbnail: VS-2012-6169-thumbnail.jpg
 - filename: 20170109_194351-170109
   original: 20170109_194351-170109-3194x1878.jpg
   sizes: []
@@ -510,13 +470,6 @@ pictures:
   - 20150908_211641-150908-1333x750.jpg
   - 20150908_211641-150908-2309x1299.jpg
   thumbnail: 20150908_211641-150908-1333x750.jpg
-- filename: VS-2012-6056
-  original: VS-2012-6056-6000x4000.jpg
-  sizes:
-  - VS-2012-6056-2121x1414.jpg
-  - VS-2012-6056-2999x1999.jpg
-  - VS-2012-6056-4242x2828.jpg
-  thumbnail: VS-2012-6056-thumbnail.jpg
 - filename: 20151210_072217-151210
   original: 20151210_072217-151210-3265x1837.jpg
   sizes:
@@ -531,13 +484,6 @@ pictures:
   original: jones 25kw-170926-2828x2121.jpg
   sizes: []
   thumbnail: jones 25kw-170926-2828x2121.jpg
-- filename: VS-2012-6048
-  original: VS-2012-6048-6000x4000.jpg
-  sizes:
-  - VS-2012-6048-2121x1414.jpg
-  - VS-2012-6048-2999x1999.jpg
-  - VS-2012-6048-4242x2828.jpg
-  thumbnail: VS-2012-6048-thumbnail.jpg
 - filename: 20150129_121333-150129
   original: 20150129_121333-150129-3265x1837.jpg
   sizes:
@@ -560,13 +506,6 @@ pictures:
   - IMG_20150404_213004-150404-1299x2309.jpg
   - IMG_20150404_213004-150404-750x1333.jpg
   thumbnail: IMG_20150404_213004-150404-750x1333.jpg
-- filename: VS-2012-6042
-  original: VS-2012-6042-6000x4000.jpg
-  sizes:
-  - VS-2012-6042-2121x1414.jpg
-  - VS-2012-6042-2999x1999.jpg
-  - VS-2012-6042-4242x2828.jpg
-  thumbnail: VS-2012-6042-thumbnail.jpg
 - filename: 20161004_113825-161004
   original: 20161004_113825-161004-1837x3265.jpg
   sizes:
@@ -724,33 +663,12 @@ pictures:
   - 20151228_181601-151228-1299x2309.jpg
   - 20151228_181601-151228-750x1333.jpg
   thumbnail: 20151228_181601-151228-750x1333.jpg
-- filename: VS-2012-6057
-  original: VS-2012-6057-6000x4000.jpg
-  sizes:
-  - VS-2012-6057-2121x1414.jpg
-  - VS-2012-6057-2999x1999.jpg
-  - VS-2012-6057-4242x2828.jpg
-  thumbnail: VS-2012-6057-thumbnail.jpg
-- filename: VS-2012-5900
-  original: VS-2012-5900-6000x4000.jpg
-  sizes:
-  - VS-2012-5900-2121x1414.jpg
-  - VS-2012-5900-2999x1999.jpg
-  - VS-2012-5900-4242x2828.jpg
-  thumbnail: VS-2012-5900-thumbnail.jpg
 - filename: IMG_0240-101230
   original: IMG_0240-101230-2834x2117.jpg
   sizes:
   - IMG_0240-101230-1157x864.jpg
   - IMG_0240-101230-2004x1497.jpg
   thumbnail: IMG_0240-101230-1157x864.jpg
-- filename: VS-2012-6053
-  original: VS-2012-6053-6000x4000.jpg
-  sizes:
-  - VS-2012-6053-2121x1414.jpg
-  - VS-2012-6053-2999x1999.jpg
-  - VS-2012-6053-4242x2828.jpg
-  thumbnail: VS-2012-6053-thumbnail.jpg
 - filename: 80-170926
   original: 80-170926-3265x1837.jpg
   sizes: []
@@ -821,13 +739,6 @@ pictures:
   original: 20170511_114250-170511-1837x3265.jpg
   sizes: []
   thumbnail: 20170511_114250-170511-1837x3265.jpg
-- filename: VS-2012-5948
-  original: VS-2012-5948-6000x4000.jpg
-  sizes:
-  - VS-2012-5948-2121x1414.jpg
-  - VS-2012-5948-2999x1999.jpg
-  - VS-2012-5948-4242x2828.jpg
-  thumbnail: VS-2012-5948-thumbnail.jpg
 - filename: 20170804_011540-170804
   original: 20170804_011540-170804-2449x2450.jpg
   sizes: []
@@ -987,13 +898,6 @@ pictures:
   - 20150129_175120-150129-1299x2309.jpg
   - 20150129_175120-150129-750x1333.jpg
   thumbnail: 20150129_175120-150129-750x1333.jpg
-- filename: VS-2012-5930
-  original: VS-2012-5930-6000x4000.jpg
-  sizes:
-  - VS-2012-5930-2121x1414.jpg
-  - VS-2012-5930-2999x1999.jpg
-  - VS-2012-5930-4242x2828.jpg
-  thumbnail: VS-2012-5930-thumbnail.jpg
 - filename: 20170401_083206-170401
   original: 20170401_083206-170401-3265x1837.jpg
   sizes: []
@@ -1327,13 +1231,6 @@ pictures:
   original: Render2-170926-3418x1755.jpg
   sizes: []
   thumbnail: Render2-170926-3418x1755.jpg
-- filename: VS-2012-5966
-  original: VS-2012-5966-6000x4000.jpg
-  sizes:
-  - VS-2012-5966-2121x1414.jpg
-  - VS-2012-5966-2999x1999.jpg
-  - VS-2012-5966-4242x2828.jpg
-  thumbnail: VS-2012-5966-thumbnail.jpg
 - filename: 20160610_153823-160610
   original: 20160610_153823-160610-3265x1837.jpg
   sizes:

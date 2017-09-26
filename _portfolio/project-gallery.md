@@ -4,7 +4,6 @@ title: "Project Portfolio Gallery"
 support: [jquery, gallery]
 excerpt: "This is a sortable gallery of highlights (err..greatest hits?) of my past work."
 header:
-  image: /assets/images/unsplash-gallery-image-1.jpg
   teaser: assets/images/unsplash-gallery-image-1-th.jpg
 ---
 
