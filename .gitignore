@@ -12,3 +12,7 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+<<<<<<< HEAD
+=======
+*.jpg
+>>>>>>> 23cb2991e221fd32d74e7405bff8a963484c52b5
