@@ -1,0 +1,90 @@
+//gallery sorting template before moving to amazon AWS
+
+
+<h2>Filter</h2>
+<div id="filters" class="button-group">  <button class="button is-checked" data-filter="*">show all</button>
+  <button class="button" data-filter=".electronics">electronics</button>
+  <button class="button" data-filter=".computers">computers</button>
+  <button class="button" data-filter=".cars">cars</button>
+  <button class="button" data-filter=".art">art</button>
+</div>
+<br>
+<div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
+  <div id="gallery-sizer" class="gallery-sizer"></div>
+    {% for picture in include.gallery.pictures %}
+      <div class="image-wrapper {{ picture.filter }} {{ picture.priority }}">
+        <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.original }}"
+        data-responsive="
+          {% for size in picture.sizes %}
+              {{ site.url}}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}
+          {% endfor %}"
+        class="image"
+          {% if picture.title %}
+              data-sub-html="<div class='lg-toolbar caption'><h4>{{ picture.title | escape }}</h4>
+                  {% if picture.caption %}
+                    <p>{{ picture.caption | escape }}</p>
+                  {% endif %}</div>"
+          {% endif %}>
+        <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+        </a>
+      </div>
+    {% endfor %}
+</div>
+
+<script>
+
+$(document).ready(function() {
+  var $gallery{% if include.id_number %}{{ include.id_number }}{% endif %} = $("#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}").lightGallery({
+    thumbnail: true,
+    selector: '.image'
+  });
+});
+
+
+// init isotope
+var $grid{% if include.id_number %}{{ include.id_number }}{% endif %} = $('#image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}').isotope({
+  percentPosition: true,
+  columnWidth: '#gallery-sizer{% if include.id_number %}-{{ include.id_number }}{% endif %}',
+  itemSelector: '.image-wrapper',
+  layoutMode: "masonry",
+  getSortData:{
+    priority: '.priority'
+  }
+});
+
+
+// bind filter button click
+$('#filters').on( 'click', 'button', function() {
+  var filterValue = $( this ).attr('data-filter');
+  // use filterFn if matches value
+  // filterValue = filterFns[ filterValue ] || filterValue;
+  $grid.isotope({ filter: filterValue });
+  console.info( 'FILTER: ', filterValue );
+});
+
+// change is-checked class on buttons
+$('.button-group').each( function( i, buttonGroup ) {
+  var $buttonGroup = $( buttonGroup );
+  $buttonGroup.on( 'click', 'button', function() {
+    $buttonGroup.find('.is-checked').removeClass('is-checked');
+    $( this ).addClass('is-checked');
+  });
+});
+
+// layout Isotope after each image loads
+$grid{% if include.id_number %}{{ include.id_number }}{% endif %}.imagesLoaded().progress( function() {
+  $grid{% if include.id_number %}{{ include.id_number }}{% endif %}.masonry();
+});
+
+
+// adds page specific google analytics
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-107095408-1', 'auto');
+  ga('send', 'pageview');
+// end google analytics
+
+</script>

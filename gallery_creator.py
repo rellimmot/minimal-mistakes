@@ -17,7 +17,7 @@ image_path = "portfolio-gallery-2"
 extensions= ['jpg', 'png']
 
 # set correct path
-path = join("./assets/images/", image_path)
+path = join("./assets/images/portfolio-gallery/", image_path)
 
 # extract image files
 print('Collecting files...')
