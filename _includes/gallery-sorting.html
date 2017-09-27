@@ -1,19 +1,19 @@
-<h2>Filter</h2>
-<div id="filters" class="button-group">  <button class="button is-checked" data-filter="*">show all</button>
+<!-- <h2>Filter</h2> -->
+<!-- <div id="filters" class="button-group">  <button class="button is-checked" data-filter="*">show all</button>
   <button class="button" data-filter=".electronics">electronics</button>
   <button class="button" data-filter=".computers">computers</button>
   <button class="button" data-filter=".cars">cars</button>
   <button class="button" data-filter=".art">art</button>
 </div>
-<br>
+<br> -->
 <div id="image-gallery{% if include.id_number %}-{{ include.id_number }}{% endif %}" class="image-gallery">
   <div id="gallery-sizer" class="gallery-sizer"></div>
     {% for picture in include.gallery.pictures %}
       <div class="image-wrapper {{ picture.filter }} {{ picture.priority }}">
-        <a href="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.original }}"
+        <a href="https://s3.us-east-2.amazonaws.com/rellimmot/assets/images/portfolio-gallery/{{ picture.original }}"
         data-responsive="
           {% for size in picture.sizes %}
-              {{ site.url}}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}
+              https://s3.us-east-2.amazonaws.com/rellimmot/assets/images/portfolio-gallery//{{ size }} {{ size | split: '-' | last | split: '.' | first | split: 'x' | first | strip }}{% unless forloop.last %},{% endunless %}
           {% endfor %}"
         class="image"
           {% if picture.title %}
@@ -22,7 +22,7 @@
                     <p>{{ picture.caption | escape }}</p>
                   {% endif %}</div>"
           {% endif %}>
-        <img alt="{{ picture.title }}" src="{{ site.url }}{{ site.baseurl }}/assets/images/{{ include.gallery.picture_path }}/{{ picture.thumbnail }}" />
+        <img alt="{{ picture.title }}" src="https://s3.us-east-2.amazonaws.com/rellimmot/assets/images/portfolio-gallery/{{ picture.thumbnail }}" />
         </a>
       </div>
     {% endfor %}
