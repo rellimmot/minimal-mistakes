@@ -7,10 +7,10 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/siteimages/burnedchassis2096x913.jpg
   caption: "Photo: [**rellimmot**](https://www.rellimmot.com)"
-excerpt: "This is my Project Log. This is my honest attempt at documenting my work, and my sharing creative methods. This site is in at early stage. I am a lifelong hobbyist, veteran, and early career Electrical Engineer currently living in New Orleans. I like to make and fix everything, especially airplanes, cars, robots, 3D printing, and electronics. Sometimes I also make art."
+excerpt: "This is my Project Log. This is my honest attempt at documenting my work, and my sharing creative methods. This site is in at early stage. I am a lifelong hobbyist, veteran, and early career Electrical Engineer currently living in New Orleans. I like to make and fix everything, especially airplanes, cars, robots, 3D printing, art, and electronics."
 intro:
   - excerpt: 'View my Portfolio to find articles documenting my work. As of now I am still populating the site, so I have got some writing to do.'
-feature_row: 
+feature_row:
   - image_path: https://www.rellimmot.com/assets/images/siteimages/poplatedbreadboard600x400.jpg
     alt: "Portfolio"
     title: <a href="/portfolio/" style="color:#494e52">Portfolio</a>
