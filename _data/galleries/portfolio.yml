@@ -43,7 +43,7 @@ pictures:
   thumbnail: PORTGAL146-2309x1299.jpg
 
 - filename: PORTGAL147
-  original: PORTGAL147-4216x2372.jpg
+  original: https://www.youtube.com/watch?v=qduboZDe5OA
   sizes:
   - PORTGAL147-1333x750.jpg
   - PORTGAL147-2309x1299.jpg
@@ -64,7 +64,7 @@ pictures:
   thumbnail: PORTGAL145-2309x1299.jpg
 
 - filename: PORTGAL142
-  original: PORTGAL142-4216x2372.jpg
+  original: https://www.youtube.com/watch?v=qduboZDe5OA
   sizes:
   - PORTGAL142-1333x750.jpg
   - PORTGAL142-2309x1299.jpg
@@ -337,7 +337,7 @@ pictures:
   thumbnail: PORTGAL094-2003x1496.jpg
 
 - filename: PORTGAL095
-  original: PORTGAL095-3874x2581.jpg
+  original: https://www.youtube.com/watch?v=kXTcMYSihz8
   sizes:
   - PORTGAL095-1225x816.jpg
   - PORTGAL095-2121x1413.jpg
@@ -379,14 +379,14 @@ pictures:
   thumbnail: PORTGAL092-2136x1403.jpg
 
 - filename: PORTGAL093
-  original: PORTGAL093-3742x2671.jpg
+  original: https://www.youtube.com/watch?v=7lVdLTlFBig
   sizes:
   - PORTGAL093-1183x844.jpg
   - PORTGAL093-2050x1463.jpg
   thumbnail: PORTGAL093-2050x1463.jpg
 
 - filename: PORTGAL219
-  original: PORTGAL219-3651x2738.jpg
+  original: https://www.youtube.com/watch?v=ctcYrWMd69E
   sizes:
   - PORTGAL219-1154x866.jpg
   - PORTGAL219-1999x1499.jpg
@@ -484,7 +484,7 @@ pictures:
   thumbnail: PORTGAL007-2004x1497.jpg
 
 - filename: PORTGAL006
-  original: PORTGAL006-2733x3659.jpg
+  original: https://www.youtube.com/watch?v=4F7zYdU1Rtw
   sizes:
   - PORTGAL006-864x1157.jpg
   - PORTGAL006-1497x2004.jpg
@@ -547,7 +547,7 @@ pictures:
   thumbnail: PORTGAL080-1495x2005.jpg
 
 - filename: PORTGAL087
-  original: PORTGAL087-2372x4216.jpg
+  original: https://www.youtube.com/watch?v=yhvoxO3SA4w
   sizes:
   - PORTGAL087-750x1333.jpg
   - PORTGAL087-1299x2309.jpg
@@ -764,7 +764,7 @@ pictures:
   thumbnail: PORTGAL227-1487x2016.jpg
 
 - filename: PORTGAL226
-  original: PORTGAL226-3659x2733.jpg
+  original: https://www.youtube.com/watch?v=5LKwLbw4uFM
   sizes:
   - PORTGAL226-1157x864.jpg
   - PORTGAL226-2004x1497.jpg
@@ -848,7 +848,7 @@ pictures:
   thumbnail: PORTGAL102-2309x1299.jpg
 
 - filename: PORTGAL103
-  original: PORTGAL103-4216x2372.jpg
+  original: https://www.youtube.com/watch?v=-OfHAi8KNHE
   sizes:
   - PORTGAL103-1333x750.jpg
   - PORTGAL103-2309x1299.jpg
@@ -869,7 +869,7 @@ pictures:
   thumbnail: PORTGAL101-2080x1442.jpg
 
 - filename: PORTGAL106
-  original: PORTGAL106-2372x4216.jpg
+  original: https://www.youtube.com/watch?v=-OfHAi8KNHE
   sizes:
   - PORTGAL106-750x1333.jpg
   - PORTGAL106-1299x2309.jpg
