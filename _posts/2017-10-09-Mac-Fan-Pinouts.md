@@ -8,6 +8,7 @@ tags:
   - Apple
   - Wiring
   - 3D Printing
+  - Computers
 ---
 I'm going to make an air scrubber to filter ABS fumes (mostly styrene) with a couple fans from my stack of retired Mac Pros. They are are wonderful low static pressure Delta brand fans. I couldn't find a clear pinout for a few common Mac fan connectors, and I noticed a lot of people wiring them up to straight DC sources wondering why they didn't work. I'd like to help make things clear.
 
