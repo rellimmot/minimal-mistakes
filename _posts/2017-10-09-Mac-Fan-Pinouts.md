@@ -14,6 +14,8 @@ I'm going to make an air scrubber to filter ABS fumes (mostly styrene) with a co
 
 <!--more-->
 
+![Mac Fans](/assets/images/posts/macfans/MacFans.jpg)
+
 ## Motherboard/Molex Conversion
 
 If you're reusing these with your hackintosh or case mod build, you're going to want to repin these fans to work with your motherboard. You'll have to acquire the connectors and pins which work with your motherboard. Chances are the connector you need to use looks like one of the Molex 2, 3, or 4 pin connectors.
