@@ -1,5 +1,5 @@
 ---
-title: "Mac Delta Fan Pinouts and PWM Wiring"
+title: "Mac Pro and PowerMac Delta Fan Pinouts and PWM Wiring"
 excerpt_separator: "<!--more-->"
 categories:
   - How-To
