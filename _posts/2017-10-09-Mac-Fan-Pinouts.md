@@ -23,6 +23,16 @@ I'm not covering this in depth since I'm using these for a 3D printer project, b
 
 ![Molex Fan Connectors](/assets/images/posts/macfans/MolexFanConnectors.PNG)
 
+The 4 wire Mac fans that I've used have all been PWM. The +12 is a constant and the pulse train frequency controls the speed.
+
+If the fan has more than 3 wires it is almost invariably going to be PWM type. +12, GND, PWM, and Sense/Tachometer. The 4 wire Mac fans are about the same Delta brand fans as you'd see in a PC except the pin configuration is usually different. You can obtain those connectors and pins from Amazon and eBay pretty easy for a clean looking conversion.
+
+Wikipedia: [Computer Fan #Connectors](https://en.wikipedia.org/wiki/Computer_fan#Connectors), 
+Female Housing: [47054-1000](https://www.digikey.com/product-detail/en/470541000/WM3285-ND), 
+Female Contacts: [08-50-0114](https://www.digikey.com/product-detail/en/0008500114/WM1114-ND), 
+Male Header: [47053-1000](https://www.digikey.com/product-detail/en/0470531000/WM4330-ND)
+
+
 ## Pinouts
 
 ### Motor Connections
