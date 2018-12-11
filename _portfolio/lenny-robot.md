@@ -1,3 +1,5 @@
+# This document contains content that is copyright to Thomas Miller whom retains all exclusive rights to the content. This document contains content that is not for distribution or reference. This document is subject to editing to which, in its current state, is not to be used as guidance for any reason whatsoever. This document does not reflect the opinions of the United States government in any way whatsoever.
+
 # Lenny HardwareX Article
 
 # Title
