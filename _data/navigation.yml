@@ -16,7 +16,7 @@ main:
     url: /year-archive/
   - title: "Portfolio"
     url: /portfolio/
-  - title: "Resume"
-    url: /resume/
+#  - title: "Resume"
+#    url: /resume/
 #  - title: "Contact"
 #    url: /contact/
