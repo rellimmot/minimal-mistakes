@@ -24,6 +24,8 @@ New Orleans, LA
 
 [tommiller@rellimmot.com](mailto:tommiller@rellimmot.com)
 
+## 12/2018: I removed this because well, I had it here when I needed a job :] . I'll have a new CV up in a month or two.
+<!--
 # ***Qualifications Summary***
 
 -   Electrical/Computer Engineer with lifelong hobby of computer
@@ -204,3 +206,5 @@ Flew payloads to near-space for instrumentation research.
 -	Refuted claims of accuracy for a pressure sensor commonly used in high altitude ballooning.
 ## International Society of Automation UNO Student Chapter
 Vice President 2015-2017
+
+-->
