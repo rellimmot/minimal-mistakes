@@ -2,22 +2,22 @@
 title: "Cotton Gin NIR Robot"
 excerpt: "A robot for field-deployed lab instruments in rugged environments."
 header:
- image: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
- teaser: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
+ image: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
+ teaser: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
 sidebar:
   - title: ""
-    image: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback.jpg
+    image: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lennyback.jpg
     image_alt: "logo"
     text: "Cotton Gin NIR Robot."
 gallery1:
-  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
-    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
+  - url: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
+    image_path: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
     alt: ""
-  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
-    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
+  - url: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
+    image_path: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
     alt: ""
-  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
-    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
+  - url: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
+    image_path: https://rellimmot.s3.amazonaws.com/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
     alt: ""
 ---
 {% include toc title="Table of Contents" icon="file-text" %}
