@@ -5,8 +5,8 @@ header:
  image: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
  teaser: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
 sidebar:
-  - title: "DIY"
-    image: https://i.imgur.com/tUWO48f.jpg
+  - title: ""
+    image: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback.jpg
     image_alt: "logo"
     text: "Cotton Gin NIR Robot."
 gallery1:
