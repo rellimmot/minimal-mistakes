@@ -1,6 +1,6 @@
 ---
 title: "Cotton Gin NIR Robot"
-excerpt: "A robot I built for field-deployment of laboratory of instruments in rugged environments."
+excerpt: "A robot for field-deployed lab instruments in rugged environments."
   header:
   image: https://i.imgur.com/CyDPDEA.jpg
   teaser: https://i.imgur.com/CyDPDEA.jpg
@@ -28,7 +28,7 @@ gallery2:
     alt: "After Polishing"
 ---
 {% include toc title="Table of Contents" icon="file-text" %}
-<!-- {% include gallery id="gallery1"%} -->
+{% include gallery id="gallery1"%}
 
 > **Disclaimer:** _The views and opinions expressed in this article are those of the authors and do not
 > necessarily reflect the official policy or position of any agency of the U.S. government. Examples of
