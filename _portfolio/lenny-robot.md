@@ -1,6 +1,10 @@
 ---
 title: "Cotton Gin NIR Robot"
 excerpt: "A robot I built for field-deployment of laboratory of instruments in rugged environments."
+<<<<<<< HEAD
+=======
+<!--
+>>>>>>> 89ea52f470cc8d2c387cc28651064f7dc6d7b825
   header:
   image: https://i.imgur.com/CyDPDEA.jpg
   teaser: https://i.imgur.com/CyDPDEA.jpg
@@ -26,6 +30,10 @@ gallery2:
   - url: https://i.imgur.com/FPTwvVl.jpg
     image_path: https://i.imgur.com/FPTwvVl.jpg
     alt: "After Polishing"
+<<<<<<< HEAD
+=======
+    -->
+>>>>>>> 89ea52f470cc8d2c387cc28651064f7dc6d7b825
 ---
 {% include toc title="Table of Contents" icon="file-text" %}
 <!-- {% include gallery id="gallery1"%} -->
