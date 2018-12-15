@@ -1,9 +1,9 @@
 ---
 title: "Cotton Gin NIR Robot"
 excerpt: "A robot for field-deployed lab instruments in rugged environments."
-  header:
-  image: https://i.imgur.com/CyDPDEA.jpg
-  teaser: https://i.imgur.com/CyDPDEA.jpg
+ header:
+ image: https://i.imgur.com/CyDPDEA.jpg
+ teaser: https://i.imgur.com/CyDPDEA.jpg
 sidebar:
   - title: "DIY"
     image: https://i.imgur.com/tUWO48f.jpg
@@ -38,7 +38,7 @@ gallery2:
 
 # Introduction
 
-This was meant at one point to turn into a publication aimed at [HardwareX](https://www.journals.elsevier.com/hardwarex) Open-Source Hardware Journal to cover the hardware end of the research, in order to complement another publication to a cotton journal which covered the science end. My internship eventually came to an end as did the fruitions of bothering to publish this but the information is still nice and I worked hard on the project so here it is in the form I'd left it in 03/2018.
+This was meant at one point to turn into a publication aimed at [HardwareX](https://www.journals.elsevier.com/hardwarex) Open-Source Hardware Journal to cover the hardware end of the research, in order to complement another publication to a cotton journal which covered the science end. My internship eventually came to an end as did the fruitions of bothering to publish this but the information is still nice and I worked hard on the project so here it is in the form I had left it in 03/2018.
 
 # Abstract
 
@@ -154,7 +154,7 @@ A 24VDC 350W Meanwell SE-350-24 Power Supply is used to power the stepper motor 
 
 ### Stepper Drive Systems
 
-Two Wantai DQ542MA 2-phase hybrid stepper motor drivers are used, one for each axis. The axis's are configured via onboard dip switches, which will vary per application in current and microstepping. Attention should be paid to proper chassis grounding methods, noise mitigation, and isolation from control systems as observed with this particular driver despite its onboard optically isolated signal I/O.
+Two Wantai DQ542MA 2-phase hybrid stepper motor drivers are used, one for each axis. The axis are configured via onboard dip switches, which will vary per application in current and microstepping. Attention should be paid to proper chassis grounding methods, noise mitigation, and isolation from control systems as observed with this particular driver despite its onboard optically isolated signal I/O.
 
 ### Connectors and Cabling
 
