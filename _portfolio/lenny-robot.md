@@ -27,7 +27,7 @@ gallery1:
 > necessarily reflect the official policy or position of any agency of the U.S. government. Examples of
 > analysis performed within this article are only examples. They should not be utilized in real-world
 > analytic products as they are based only on very limited and dated open source information.
-> Assumptions made within the analysis are not reflective of the position of any U.S. government entity._
+> Assumptions made within the analysis are not reflective of the position of any U.S. government entity. _
 
 # Introduction
 
