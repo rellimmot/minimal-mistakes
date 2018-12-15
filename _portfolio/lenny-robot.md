@@ -2,34 +2,26 @@
 title: "Cotton Gin NIR Robot"
 excerpt: "A robot for field-deployed lab instruments in rugged environments."
 header:
- image: https://i.imgur.com/CyDPDEA.jpg
- teaser: https://i.imgur.com/CyDPDEA.jpg
+ image: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
+ teaser: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny17.jpg
 sidebar:
   - title: "DIY"
     image: https://i.imgur.com/tUWO48f.jpg
     image_alt: "logo"
-    text: "Photo documented DIY highlighting how I made my first knife."
+    text: "Cotton Gin NIR Robot."
 gallery1:
-  - url: https://i.imgur.com/HlzsFAc.jpg
-    image_path: https://i.imgur.com/HlzsFAc.jpg
-    alt: "Template Cutout"
-  - url: https://i.imgur.com/Gp0Umjs.jpg
-    image_path: https://i.imgur.com/Gp0Umjs.jpg
-    alt: "Steel Stock Trimming"
-  - url: https://i.imgur.com/NL46gA3r.jpg
-    image_path: https://i.imgur.com/NL46gA3r.jpg
-    alt: "Hardened and Tempered"
-gallery2:
-  - url: https://i.imgur.com/CKs5gpF.jpg
-    image_path: https://i.imgur.com/CKs5gpF.jpg
-    alt: "Before Polishing"
-  - url: https://i.imgur.com/FPTwvVl.jpg
-    image_path: https://i.imgur.com/FPTwvVl.jpg
-    alt: "After Polishing"
+  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
+    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennyback2.jpg
+    alt: ""
+  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
+    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lennybox.jpg
+    alt: ""
+  - url: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
+    image_path: https://s3.amazonaws.com/rellimmot/assets/images/portfolio-assets/lenny-robot/lenny16.jpg
+    alt: ""
 ---
 {% include toc title="Table of Contents" icon="file-text" %}
 {% include gallery id="gallery1"%}
-{% include gallery id="gallery2" caption="Before and After" %}
 
 > **Disclaimer:** _The views and opinions expressed in this article are those of the authors and do not
 > necessarily reflect the official policy or position of any agency of the U.S. government. Examples of
