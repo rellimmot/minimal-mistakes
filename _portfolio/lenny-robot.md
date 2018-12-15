@@ -29,6 +29,7 @@ gallery2:
 ---
 {% include toc title="Table of Contents" icon="file-text" %}
 {% include gallery id="gallery1"%}
+{% include gallery id="gallery2" caption="Before and After" %}
 
 > **Disclaimer:** _The views and opinions expressed in this article are those of the authors and do not
 > necessarily reflect the official policy or position of any agency of the U.S. government. Examples of
