@@ -1,7 +1,7 @@
 ---
 title: "Cotton Gin NIR Robot"
 excerpt: "A robot for field-deployed lab instruments in rugged environments."
- header:
+header:
  image: https://i.imgur.com/CyDPDEA.jpg
  teaser: https://i.imgur.com/CyDPDEA.jpg
 sidebar:
